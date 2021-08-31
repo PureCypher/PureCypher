@@ -1,6 +1,6 @@
 # Hi all
 
-I recently got my degree from **Lancaster University**. I do some CTF's every so often when I am able too.
+I programme random stuff which sometimes make it onto my Github. I mainly programme in Python, I am able to programme in JavaScript, C++, C# but only very basically since I haven't programmed in them recently/ still learning the ways.
 
 # Hobbies
  - Robotics
