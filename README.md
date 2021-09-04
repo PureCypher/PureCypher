@@ -7,8 +7,8 @@ I programme random stuff which sometimes make it onto my Github. I mainly progra
  -- I am wanting to create a version of the Darpa Tank that showed their improvements made on the tanks suspension as shown: https://www.youtube.com/watch?v=wUsyMDvPW6U&ab_channel=DARPAtv
  
  - Electronics
- -- I am wanting to make things. 
- -_- For example Rubber ducky
+ - I am wanting to make things. 
+ - -_- For example Rubber ducky
  - Gaming
 
 <!--
