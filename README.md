@@ -2,8 +2,7 @@
 <h3 align="center">Passoniate cyber security analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purecypher&label=Profile%20views&color=0e75b6&style=flat" alt="purecypher" /> </p>
-- 🔭 I’m currently working on **a distrubted communications network, written in python.**
-
+- 🔭 I’m currently working on a distrubted communications network, written in python.
 - 🌱 I’m currently learning **Rust, C#**
 
 <h3 align="left">Connect with me:</h3>
