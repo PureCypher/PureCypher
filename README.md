@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=purecypher&show_icons=true&theme=radical&locale=en" alt="purecypher" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=purecypher&" alt="purecypher" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=purecypher&theme=radical" alt="purecypher" /></p>
