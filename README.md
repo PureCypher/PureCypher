@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a distrubted communications network, written in python.**
 
-- 🌱 I’m currently learning **Rust, C#**
+- 🌱 I’m currently learning **Rust**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
