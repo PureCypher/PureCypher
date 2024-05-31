@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **a distrubted communications network, written in python.**
 
-- 🌱 I’m currently learning **Rust**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@pure_cypher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@pure_cypher" height="30" width="40" /></a>
